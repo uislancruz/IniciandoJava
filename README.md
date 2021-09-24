@@ -1,2 +1,2 @@
 # IniciandoJava
-Inicio do curso de Java Basico, Java POO, JSF e PrimeFaces
+Inicio do curso de Java Basico, Java POO
